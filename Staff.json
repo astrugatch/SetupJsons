@@ -1,0 +1,81 @@
+{
+    "steps": [
+        {
+            "listitem": "Rosetta",
+            "icon": "d86af84697341405ba5ea191b41d644529b52c43359f922592a640f4f643a26c",
+            "progresstext": "Installing Rosetta",
+            "trigger_list": [
+                {
+                    "trigger": "ZTrosetta",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Google Chrome",
+            "icon": "38652ddedd3a1819465dd1076b7847b8d512aa784d371a69d91e2121bdfd37db",
+            "progresstext": "Installing Google Chrome",
+            "trigger_list": [
+                {
+                    "trigger": "ZTchrome",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Drive",
+            "icon": "8c04999d2f6b432f0a31a5bb23193b30f6a64e364a54421817deba986d632bc2",
+            "progresstext": "Installing Google Drive",
+            "trigger_list": [
+                {
+                    "trigger": "ZTdrive",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Cisco Security",
+            "icon": "9d2658ac9237faa3111d14c25f27c052f9a52bb0a1b367aecd4aca6dd33474c5",
+            "progresstext": "Installing Cisco Umbrella",
+            "trigger_list": [
+                {
+                    "trigger": "ZTCiscoUmbrella",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Patch Management",
+            "icon": "2e4ea476af81dc6eb35e755ffaabe8d8a7d0a39f291906bda5199b94d0471e96",
+            "progresstext": "Installing Update Reminders",
+            "trigger_list": [
+                {
+                    "trigger": "ZTnudge",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Dock",
+            "icon": "6197b21b34bee583ff33df73b0fc31f3a7336fa2965c83564f19dfaa6040af2f",
+            "progresstext": "Configuring your Dock",
+            "trigger_list": [
+                {
+                    "trigger": "ZTdock",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Set Computer Name",
+            "icon": "17de8712241e38cf1eca17cfc4b6814f0a32dfd09d8b9295c70a7fca2421919b",
+            "progresstext": "Configuring your Dock",
+            "trigger_list": [
+                {
+                    "trigger": "ZTsetname",
+                    "validation": "None"
+                }
+            ]
+        }
+    ]
+}
