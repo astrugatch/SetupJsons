@@ -34,6 +34,17 @@
             ]
         },
         {
+            "listitem": "Secure Printing",
+            "icon": "328fbed05f631bb88550001d9a146bf34bd2f00efc0e58904b6b7d1d0f59c056",
+            "progresstext": "Installing Secure Print Queue",
+            "trigger_list": [
+                {
+                    "trigger": "ZTSecurePrint",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
             "listitem": "Cisco Security",
             "icon": "9d2658ac9237faa3111d14c25f27c052f9a52bb0a1b367aecd4aca6dd33474c5",
             "progresstext": "Installing Cisco Umbrella",
