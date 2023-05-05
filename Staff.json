@@ -23,6 +23,17 @@
             ]
         },
         {
+            "listitem": "Branding",
+            "icon": "c1ea40e92930ed2d40a54d5581070f54546b742c8093edc73227875f02ba0011",
+            "progresstext": "Installing SPF Logo",
+            "trigger_list": [
+                {
+                    "trigger": "ZTinstallimages",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
             "listitem": "Drive",
             "icon": "8c04999d2f6b432f0a31a5bb23193b30f6a64e364a54421817deba986d632bc2",
             "progresstext": "Installing Google Drive",
