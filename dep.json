@@ -1,0 +1,48 @@
+{
+    "steps": [
+        {
+            "listitem": "Google Chrome",
+            "icon": "38652ddedd3a1819465dd1076b7847b8d512aa784d371a69d91e2121bdfd37db",
+            "progresstext": "Installing Google Chrome",
+            "trigger_list": [
+                {
+                    "trigger": "googlechrome",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Google Drive",
+            "icon": "8c04999d2f6b432f0a31a5bb23193b30f6a64e364a54421817deba986d632bc2",
+            "progresstext": "Installing Google Drive",
+            "trigger_list": [
+                {
+                    "trigger": "googledrive",
+                    "validation": "None"
+                }
+            ]
+        },
+      {
+            "listitem": "Jamf Connect",
+            "icon": "8c04999d2f6b432f0a31a5bb23193b30f6a64e364a54421817deba986d632bc2",
+            "progresstext": "Installing Google Drive",
+            "trigger_list": [
+                {
+                    "trigger": "installconnect",
+                    "validation": "None"
+                }
+            ]
+        },
+            {
+            "listitem": "Cleaning Up",
+            "icon": "8c04999d2f6b432f0a31a5bb23193b30f6a64e364a54421817deba986d632bc2",
+            "progresstext": "Installing Google Drive",
+            "trigger_list": [
+                {
+                    "trigger": "depnotifyend",
+                    "validation": "None"
+                }
+            ]
+        },
+    ]
+}
