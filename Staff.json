@@ -61,7 +61,7 @@
             "progresstext": "Installing Cisco Umbrella",
             "trigger_list": [
                 {
-                    "trigger": "ZTCiscoUmbrella",
+                    "trigger": "ZTSecureClient",
                     "validation": "None"
                 }
             ]
