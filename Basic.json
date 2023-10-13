@@ -61,7 +61,7 @@
             "progresstext": "Configuring your Dock",
             "trigger_list": [
                 {
-                    "trigger": "ZTdock",
+                    "trigger": "SYMdock",
                     "validation": "None"
                 }
             ]
