@@ -45,6 +45,17 @@
             ]
         },
         {
+            "listitem": "JamfConnect",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_9d2658ac9237faa3111d14c25f27c052f9a52bb0a1b367aecd4aca6dd33474c5",
+            "progresstext": "Installing Jamf Connect",
+            "trigger_list": [
+                {
+                    "trigger": "installconnect",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
             "listitem": "Dock",
             "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_6197b21b34bee583ff33df73b0fc31f3a7336fa2965c83564f19dfaa6040af2f",
             "progresstext": "Configuring your Dock",
