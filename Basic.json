@@ -57,7 +57,7 @@
         },
         {
             "listitem": "JamfConnect",
-            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_9d2658ac9237faa3111d14c25f27c052f9a52bb0a1b367aecd4aca6dd33474c5",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_23aacff50a1cf44038bd00dbc29f2aa1846f10c11687cb27f764eb2c020b74e0",
             "progresstext": "Installing Jamf Connect",
             "trigger_list": [
                 {
