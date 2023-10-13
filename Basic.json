@@ -77,5 +77,16 @@
                 }
             ]
         }
+        {
+            "listitem": "Cleanup",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_17de8712241e38cf1eca17cfc4b6814f0a32dfd09d8b9295c70a7fca2421919b",
+            "progresstext": "Doing some cleanup",
+            "trigger_list": [
+                {
+                    "trigger": "symend",
+                    "validation": "None"
+                }
+            ]
+        }
     ]
 }
