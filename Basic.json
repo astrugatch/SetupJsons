@@ -1,6 +1,17 @@
 {
     "steps": [
         {
+            "listitem": "Recon",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_d86af84697341405ba5ea191b41d644529b52c43359f922592a640f4f643a26c",
+            "progresstext": "Installing Rosetta",
+            "trigger_list": [
+                {
+                    "trigger": "recon",
+                    "validation": "recon"
+                }
+            ]
+        },
+        {
             "listitem": "Rosetta",
             "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_d86af84697341405ba5ea191b41d644529b52c43359f922592a640f4f643a26c",
             "progresstext": "Installing Rosetta",
