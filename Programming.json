@@ -1,6 +1,17 @@
 {
     "steps": [
         {
+            "listitem": "Recon",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_73f75bec8cb8a271f2bdace2dde6df08e982003d8796829d9a3b0860d5f48d4f",
+            "progresstext": "Running a Recon",
+            "trigger_list": [
+                {
+                    "trigger": "recon",
+                    "validation": "recon"
+                }
+            ]
+        },
+        {
             "listitem": "Rosetta",
             "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_d86af84697341405ba5ea191b41d644529b52c43359f922592a640f4f643a26c",
             "progresstext": "Installing Rosetta",
@@ -56,23 +67,34 @@
             ]
         },
         {
-            "listitem": "Dock",
-            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_6197b21b34bee583ff33df73b0fc31f3a7336fa2965c83564f19dfaa6040af2f",
-            "progresstext": "Configuring your Dock",
+            "listitem": "JamfConnect",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_23aacff50a1cf44038bd00dbc29f2aa1846f10c11687cb27f764eb2c020b74e0",
+            "progresstext": "Installing Jamf Connect",
             "trigger_list": [
                 {
-                    "trigger": "ZTdock",
+                    "trigger": "installconnect",
                     "validation": "None"
                 }
             ]
         },
         {
-            "listitem": "Set Computer Name",
-            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_17de8712241e38cf1eca17cfc4b6814f0a32dfd09d8b9295c70a7fca2421919b",
+            "listitem": "Dock",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_6197b21b34bee583ff33df73b0fc31f3a7336fa2965c83564f19dfaa6040af2f",
             "progresstext": "Configuring your Dock",
             "trigger_list": [
                 {
-                    "trigger": "ZTsetname",
+                    "trigger": "SYMdock",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Cleanup",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_17de8712241e38cf1eca17cfc4b6814f0a32dfd09d8b9295c70a7fca2421919b",
+            "progresstext": "Doing some cleanup",
+            "trigger_list": [
+                {
+                    "trigger": "symend",
                     "validation": "None"
                 }
             ]
