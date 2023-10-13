@@ -1,0 +1,70 @@
+{
+    "steps": [
+        {
+            "listitem": "Rosetta",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_d86af84697341405ba5ea191b41d644529b52c43359f922592a640f4f643a26c",
+            "progresstext": "Installing Rosetta",
+            "trigger_list": [
+                {
+                    "trigger": "ZTrosetta",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Google Chrome",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_38652ddedd3a1819465dd1076b7847b8d512aa784d371a69d91e2121bdfd37db",
+            "progresstext": "Installing Google Chrome",
+            "trigger_list": [
+                {
+                    "trigger": "ZTchrome",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "SPF Branding",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_8e3e39d7c17e82db8cad6e0c9c52eaab8963a12f16862cb075e15c40f3274317",
+            "progresstext": "Installing SPF Logo",
+            "trigger_list": [
+                {
+                    "trigger": "ZTinstallimages",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Cisco Security",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_9d2658ac9237faa3111d14c25f27c052f9a52bb0a1b367aecd4aca6dd33474c5",
+            "progresstext": "Installing Cisco Umbrella",
+            "trigger_list": [
+                {
+                    "trigger": "ZTSecureClient",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Dock",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_6197b21b34bee583ff33df73b0fc31f3a7336fa2965c83564f19dfaa6040af2f",
+            "progresstext": "Configuring your Dock",
+            "trigger_list": [
+                {
+                    "trigger": "ZTdock",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
+            "listitem": "Set Computer Name",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_17de8712241e38cf1eca17cfc4b6814f0a32dfd09d8b9295c70a7fca2421919b",
+            "progresstext": "Configuring your Dock",
+            "trigger_list": [
+                {
+                    "trigger": "ZTsetname",
+                    "validation": "None"
+                }
+            ]
+        }
+    ]
+}
