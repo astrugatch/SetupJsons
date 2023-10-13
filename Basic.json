@@ -3,7 +3,7 @@
         {
             "listitem": "Recon",
             "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_73f75bec8cb8a271f2bdace2dde6df08e982003d8796829d9a3b0860d5f48d4f",
-            "progresstext": "Installing Rosetta",
+            "progresstext": "Running a Recon",
             "trigger_list": [
                 {
                     "trigger": "recon",
