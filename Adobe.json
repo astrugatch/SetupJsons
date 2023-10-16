@@ -47,7 +47,7 @@
         {
             "listitem": "Adobe Suite",
             "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_4bac5e0964a81e021361d9dcb4ff8a49cea9275a4dc667f66da2a583c6a2f60c",
-            "progresstext": "Installing Cisco Umbrella",
+            "progresstext": "Installing Adobe Suite",
             "trigger_list": [
                 {
                     "trigger": "adobe",
