@@ -34,6 +34,17 @@
             ]
         },
         {
+            "listitem": "Drive",
+            "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_8c04999d2f6b432f0a31a5bb23193b30f6a64e364a54421817deba986d632bc2",
+            "progresstext": "Installing Google Drive",
+            "trigger_list": [
+                {
+                    "trigger": "ZTdrive",
+                    "validation": "None"
+                }
+            ]
+        },
+        {
             "listitem": "SPF Branding",
             "icon": "https://usw2.ics.services.jamfcloud.com/icon/hash_8e3e39d7c17e82db8cad6e0c9c52eaab8963a12f16862cb075e15c40f3274317",
             "progresstext": "Installing SPF Logo",
